@@ -1,0 +1,17 @@
+ * ABOUT        XMRig/6.21.3-mo15 gcc/9.3.1 (built for Linux x86-64, 64 bit)
+ * LIBS         libuv/1.48.0 OpenSSL/3.0.13 hwloc/2.10.0
+ * HUGE PAGES   supported
+ * 1GB PAGES    disabled
+ * CPU          Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz (1) 64-bit AES
+                L2:2.0 MB L3:16.0 MB 8C/16T NUMA:1
+ * MEMORY       60.4/62.5 GB (97%)
+ * DONATE       0%
+ * ASSEMBLY     auto:intel
+ * POOL #1      gulf.moneroocean.stream:10256 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-06-27 20:27:30.299]  config   configuration saved to: "/home/container/moneroocean/config_background.json"
+[2024-06-27 20:27:30.299]  benchmk   STARTING ALGO PERFORMANCE CALIBRATION (with 20 seconds round) 
+[2024-06-27 20:27:30.299]  benchmk   Algo cn/r Preparation 
+[2024-06-27 20:27:30.299]  cpu      use profile  cn/2  (8 threads) scratchpad 2048 KB
